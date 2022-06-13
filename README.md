@@ -10,3 +10,10 @@
 
 ### Второй семестр
 
+[Дерево отрезков](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab1)
+
+[Дерево поиска](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab2)
+
+[Запросы на деревьях](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab3)
+
+[Жадность и перебор](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab4)
