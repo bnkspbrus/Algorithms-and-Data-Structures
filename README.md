@@ -1,3 +1,1 @@
-# itmo_algorithms_and_data_structures
-# itmo_algorithms_and_data_structures
-# itmo_algorithms_and_data_structures
+#Лабораторые работы для курс "Алгоритмы и структуры данных" в ИТМО.#
