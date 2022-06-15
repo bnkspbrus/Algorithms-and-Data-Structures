@@ -17,3 +17,11 @@
 [Запросы на деревьях](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab3)
 
 [Жадность и перебор](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem2_lab4)
+
+### Третий семестр
+
+[DFS, MST](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem3_lab1)
+
+[Кратчайшие пути. Игры](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem3_lab2)
+
+[Алгоритмы на строках](https://github.com/bnkspbrus/itmo_algorithms_and_data_structures/tree/main/sem3_lab3)
